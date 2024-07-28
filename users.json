@@ -1,6 +1,14 @@
 {
     "users": [
-        {"username": "user1", "password": "password1", "mac_address": ""},
-        {"username": "user2", "password": "password2", "mac_address": ""}
+        {
+            "username": "user1",
+            "password": "password1",
+            "mac_address": "92:AC:38:CA:84:0B"
+        },
+        {
+            "username": "user2",
+            "password": "password2",
+            "mac_address": ""
+        }
     ]
 }
